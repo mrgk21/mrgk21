@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi 👋, I'm Gaurav
++ Solo Blockchain developer, looking for my next company
++ Bachelor of electronics and telecommunication
 
-<!--
-**mrgk21/mrgk21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Articles
++ [Proof of Stake: What's the beacon chain all about?](https://medium.com/@gauravkelkar20/proof-of-stake-whats-the-beacon-chain-all-about-ae5b06e4e113)
 
-Here are some ideas to get you started:
+## Personal Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ERC20 token + faucet:
++ Type: Dapp
++ Repo links: [dev](https://github.com/mrgk21/AURA-token-dev),  [faucet](https://github.com/mrgk21/AURA-token-faucet)
++ Built with: **Solidity, Hardhat, mocha+chai(unit testing), ReactJS(webpack)**
+
+## Get in touch:
++ Email: gauravkelkar20@gmail.com
++ [LinkedIn](https://www.linkedin.com/in/gaurav-kelkar/)
