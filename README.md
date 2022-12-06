@@ -4,6 +4,7 @@
 
 ## Articles
 + [Proof of Stake: What's the beacon chain all about?](https://medium.com/@gauravkelkar20/proof-of-stake-whats-the-beacon-chain-all-about-ae5b06e4e113)
++ [Proof of Stake: What motivates the nodes?](https://medium.com/@gauravkelkar20/proof-of-stake-what-motivates-the-nodes-d9613b7a6231)
 
 ## Personal Projects:
 
