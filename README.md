@@ -12,6 +12,13 @@
 + Type: Dapp
 + Repo links: [dev](https://github.com/mrgk21/AURA-token-dev),  [faucet](https://github.com/mrgk21/AURA-token-faucet)
 + Built with: **Solidity, Hardhat, mocha+chai(unit testing), ReactJS(webpack)**
++ About: An ERC-20 token deployed on the sepolia testnet and its faucet dapp built with reactJS
+
+### REST API using sample data:
++ Type: Full stack app
++ Repo links: [dev](https://github.com/mrgk21/RESTAPI-sample),  [dockerHub](https://hub.docker.com/repository/docker/mrgk21/rest-api)
++ Built with: **Express(Typescript), MongoDB, OAuth & JWT, ReactJS(Vite), Docker**
++ About: A REST API serving sample data, which can be accessed by login using user-pass or github account. The frontend is made with reactJS and bootstrap. Both backend and frontend are dockerized and images pushed on dockerhub for easy access
 
 ## Get in touch:
 + Email: gauravkelkar20@gmail.com
