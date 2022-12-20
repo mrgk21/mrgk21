@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Gaurav
-+ Solo Blockchain developer, looking for my next company
++ Solo Software developer, looking for my next company
 + Bachelor of electronics and telecommunication
 
 ## Articles
