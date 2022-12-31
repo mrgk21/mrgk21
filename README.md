@@ -11,7 +11,7 @@
 ### REST API using sample data:
 + Type: Full stack app
 + Repo links: [dev](https://github.com/mrgk21/RESTAPI-sample),  [dockerHub](https://hub.docker.com/repository/docker/mrgk21/rest-api)
-+ Built with: **Express(Typescript), MongoDB, OAuth & JWT, ReactJS(Vite), Docker**
++ Built with: **Express(Typescript), MongoDB, OAuth & JWT, ReactJS(Vite), Docker, Nginx**
 + About: A REST API serving sample data, which can be accessed by login using user-pass or github account. The frontend is made with reactJS and bootstrap. Both backend and frontend are dockerized and images pushed on dockerhub for easy access
 
 ### ERC20 token + faucet:
