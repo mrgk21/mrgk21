@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Gaurav
-+ Solo Software developer, looking for my next company
++ Software Developer at metaverse
 + Bachelor of electronics and telecommunication
 
 ## Articles
