@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Gaurav
-+ Software Developer at metaverse
++ Software Developer at m0 ventures
 + Bachelor of electronics and telecommunication
 
 ## Articles
