@@ -1,25 +1,19 @@
-## Hi 👋, I'm Gaurav
-+ Software Developer at m0 ventures
-+ Bachelor of electronics and telecommunication
+# 💫 About Me:
 
-## Articles
-+ [Proof of Stake: What's the beacon chain all about?](https://medium.com/@gauravkelkar20/proof-of-stake-whats-the-beacon-chain-all-about-ae5b06e4e113)
-+ [Proof of Stake: What motivates the nodes?](https://medium.com/@gauravkelkar20/proof-of-stake-what-motivates-the-nodes-d9613b7a6231)
+🔭 I’m currently working on a web3 video conferencing app<br>🌱 I’m currently learning NestJS, NextJS and Rust <br>💬 Ask me about what my favorite manga is<br>⚡ Fun fact, I don't like sweet things
 
-## Personal Projects:
+## 🌐 Socials:
 
-### REST API using sample data:
-+ Type: Full stack app
-+ Repo links: [dev](https://github.com/mrgk21/RESTAPI-sample),  [dockerHub](https://hub.docker.com/repository/docker/mrgk21/rest-api)
-+ Built with: **Express(Typescript), MongoDB, OAuth & JWT, ReactJS(Vite), Docker, Nginx**
-+ About: A REST API serving sample data, which can be accessed by login using user-pass or github account. The frontend is made with reactJS and bootstrap. Both backend and frontend are dockerized and images pushed on dockerhub for easy access
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kelkar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gauravkelkar20)
 
-### ERC20 token + faucet:
-+ Type: Dapp
-+ Repo links: [dev](https://github.com/mrgk21/AURA-token-dev),  [faucet](https://github.com/mrgk21/AURA-token-faucet)
-+ Built with: **Solidity, Hardhat, mocha+chai(unit testing), ReactJS(webpack)**
-+ About: An ERC-20 token deployed on the sepolia testnet and its faucet dapp built with reactJS
+# 💻 Tech Stack:
 
-## Get in touch:
-+ Email: gauravkelkar20@gmail.com
-+ [LinkedIn](https://www.linkedin.com/in/gaurav-kelkar/)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=mrgk21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrgk21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgk21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
