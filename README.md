@@ -1,10 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on a web3 video conferencing app<br>🌱 I’m currently learning NestJS, NextJS and Rust <br>💬 Ask me about what my favorite manga is<br>⚡ Fun fact, I don't like sweet things
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kelkar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gauravkelkar20)
+🔭 I’m currently working on a web3 video conferencing app<br>🌱 I’m currently learning NestJS, NextJS and Rust <br>💬 Ask me what my favourite manga is<br>
 
 # 💻 Tech Stack:
 
@@ -15,5 +11,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=mrgk21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrgk21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgk21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kelkar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gauravkelkar20)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
