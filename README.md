@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Gauarv
 
 🔭 I’m currently working on a web3 video conferencing app<br>🌱 I’m currently learning NestJS, NextJS and Rust <br>💬 Ask me what my favourite manga is<br>
 
